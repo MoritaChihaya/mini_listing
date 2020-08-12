@@ -17,4 +17,8 @@ class ProductsController < ApplicationController
 
   def destroy
   end
+<<<<<<< Updated upstream
 end
+=======
+end
+>>>>>>> Stashed changes
